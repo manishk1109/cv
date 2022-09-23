@@ -1,4 +1,4 @@
-body { 
+body {
     background-color: #dbf1f1;
 }
 
@@ -10,7 +10,8 @@ h3 {
     color: #3120E0;
 }
 
-h2 {color: #3120E0;
+h2 {
+    color: #3120E0;
 }
 
 hr {
@@ -22,9 +23,7 @@ hr {
 }
 
 h4 {
-     color: rgb(176, 12, 26);
-     font-size: 25px;
-     
-
+    color: rgb(176, 12, 26);
+    font-size: 25px;
 
 }
