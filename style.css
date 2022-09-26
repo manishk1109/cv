@@ -1,5 +1,13 @@
+
 body {
-    background-color: #dbf1f1;
+    /* background-color: #dbf1f1; */
+    background-image: url(https://images.pexels.com/photos/19670/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2) ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+    
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
