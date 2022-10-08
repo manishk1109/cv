@@ -8,7 +8,12 @@ body {
     background-attachment: fixed;
     
     
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Edu QLD Beginner', cursive;
+}
+
+.shadow{
+    font-size: 3rem;
+     text-shadow: 3px 3px rgb(85, 18, 18) ;
 }
 
 h1 {
@@ -35,4 +40,10 @@ h4 {
     color: rgb(176, 12, 26);
     font-size: 25px;
 
+}
+
+.new{
+    border-style: groove;
+    border-width: 5px;
+    border-color: black;
 }
