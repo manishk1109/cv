@@ -6,26 +6,38 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
+    font-family: 'Oswald', sans-serif;
     
-    
-    font-family: 'Edu QLD Beginner', cursive;
 }
 
 .shadow{
-    font-size: 3rem;
+    font-size: 4rem;
      text-shadow: 3px 3px rgb(85, 18, 18) ;
+     font-family: 'Lobster', cursive;
+     
 }
 
 h1 {
+    font-family: 'Lobster', cursive;
     color: #3120E0;
+
+    
 }
 
 h3 {
+    font-family: 'Lobster', cursive;
     color: #3120E0;
+    font-size: 2rem;
+    margin-left: 2rem;
+    text-decoration: underline;
+    
 }
 
 h2 {
-    color: #3120E0;
+    margin-left: 2rem;
+    font-family: 'Lobster', cursive;
+color: #3120E0;
+   
 }
 
 hr {
@@ -37,6 +49,8 @@ hr {
 }
 
 h4 {
+    font-family: 'Lobster', cursive;
+    margin-left: 2rem;
     color: rgb(176, 12, 26);
     font-size: 25px;
 
@@ -46,4 +60,8 @@ h4 {
     border-style: groove;
     border-width: 5px;
     border-color: black;
+}
+
+.contact{
+    margin-left: 2rem;
 }
