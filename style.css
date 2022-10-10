@@ -37,6 +37,8 @@ h2 {
     margin-left: 2rem;
     font-family: 'Lobster', cursive;
 color: #3120E0;
+text-decoration: underline;
+font-size: 2rem;
    
 }
 
@@ -64,4 +66,16 @@ h4 {
 
 .contact{
     margin-left: 2rem;
+}
+
+p{
+    font-size: 1.1rem;
+}
+
+.data{
+    font-family: 'Oswald', sans-serif;
+}
+
+.idea{
+    font-family: 'Pacifico', cursive;
 }
